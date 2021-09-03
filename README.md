@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 </a>
 
-
+I am an 18-year-old innovator passionate about the intersection of technology, health, and business. Some fields that interest me are AI, embedded systems, and electrical/computer engineering!
 
 ## Some personal stuff
 - 🔭  I’m currently working on finishing up my raspberry pi project!
