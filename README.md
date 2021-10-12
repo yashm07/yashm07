@@ -24,7 +24,11 @@ I am an 18-year-old innovator passionate about the intersection of technology, h
 
 ## 📋 Latest blog posts
 Here are some of my recent articles on Medium:
-* [🤖 An Introduction to Neural Networks](https://becominghuman.ai/an-introduction-to-neural-networks-50adc4029b09)
+<!-- * [🤖 An Introduction to Neural Networks](https://becominghuman.ai/an-introduction-to-neural-networks-50adc4029b09)
 * [🚀 A Beginner's Guide to Machine Learning](https://medium.com/geekculture/a-beginners-guide-to-machine-learning-8fa5d5f9350)
-* [🧐 The Truth About Our Healthcare](https://yashmatharu.medium.com/the-truth-about-our-healthcare-263b1fd28357)
+* [🧐 The Truth About Our Healthcare](https://yashmatharu.medium.com/the-truth-about-our-healthcare-263b1fd28357) -->
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/2" alt="Recent Article 2"></a>
 
