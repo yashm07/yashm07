@@ -22,5 +22,3 @@ Passionate about the intersection of technology and business. Some fields that i
 
 ## 📋 Latest blog posts
 Here are some of my published articles on Medium (intro to ML/DL, healthcare): https://yashmatharu.medium.com/
-
-Will be writing more articles regarding deep learning papers and implementations soon.
