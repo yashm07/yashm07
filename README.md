@@ -18,16 +18,9 @@ Passionate about the intersection of technology and business. Some fields that i
 ## Some personal stuff
 - 🌱  I’m learning about natural language processing, data science, and product
 - 🏫  Studying electrical and biomedical engineering
-- 📖  Reading Emotional Intelligence by Daniel Goleman
 - 📫  How to reach me: ymatharu7@gmail.com
 
 ## 📋 Latest blog posts
-Here are some of my published articles on Medium:
-<!-- * [🤖 An Introduction to Neural Networks](https://becominghuman.ai/an-introduction-to-neural-networks-50adc4029b09)
-* [🚀 A Beginner's Guide to Machine Learning](https://medium.com/geekculture/a-beginners-guide-to-machine-learning-8fa5d5f9350)
-* [🧐 The Truth About Our Healthcare](https://yashmatharu.medium.com/the-truth-about-our-healthcare-263b1fd28357) -->
+Here are some of my published articles on Medium (intro to ML/DL, healthcare): https://yashmatharu.medium.com/
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yashmatharu/2" alt="Recent Article 2"></a>
-
+Will be writing more articles regarding deep learning papers and implementations soon.
