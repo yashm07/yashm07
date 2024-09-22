@@ -16,7 +16,7 @@
 Passionate about the intersection of technology and business. Some fields that interest me are AI + product!
 
 ## Some personal stuff
-- 🌱  I’m learning about infrastructure, and distributed systems
+- 🌱  I’m learning about infrastructure and distributed systems
 - 🏫  Studying electrical and biomedical engineering
 - 📫  How to reach me: ymatharu7@gmail.com
 
